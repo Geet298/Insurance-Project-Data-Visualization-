@@ -15,7 +15,7 @@ dependents
 0 (southwest), 1(southeast), 2 (northwest), 3 (northeast)
 • charges: individual medical costs billed by health insurance
 
-To complete the assignment, you have performed the following steps:
+To complete the assignment, I have performed the following steps:
 
 1. BMI Impact on Medical Costs:
    - Plotted a scatter plot with BMI on the x-axis and medical costs on the y-axis.
@@ -45,4 +45,4 @@ To complete the assignment, you have performed the following steps:
    - Generated two more figures to showcase the findings.
    - Provided explanations and interpretations of the findings.
 
-By following these steps, you have successfully analyzed the provided insurance dataset, visualized the relationships between different variables, and drawn valuable insights regarding the impact of BMI, smoking status, age, and other factors on medical costs.
+By following these steps, I have successfully analyzed the provided insurance dataset, visualized the relationships between different variables, and drawn valuable insights regarding the impact of BMI, smoking status, age, and other factors on medical costs.
